@@ -1,0 +1,1 @@
+This repository contains a python notebook which consists of classification of iris intlo different species using machine learning.
